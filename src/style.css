@@ -82,7 +82,7 @@ p {
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
-  
+  align-items: center;
 }
 
 .email-link:hover {
